@@ -1,0 +1,42 @@
+NierAutomata --- Banii : 354000000.00 , Profitul : 342000000.00  , 2
+ Minecraft --- Banii : 448200000.00 , Profitul : 447800000.00  , 4
+ NierAutomata --- Banii : 354000000.00 , Profitul : 342000000.00  , 2
+ Minecraft --- Banii : 448200000.00 , Profitul : 447800000.00  , 4
+ NierAutomata --- Banii : 354000000.00 , Profitul : 342000000.00  , 2
+ Minecraft --- Banii : 448200000.00 , Profitul : 447800000.00  , 4
+ NierAutomata --- Banii : 354000000.00 , Profitul : 342000000.00  , 2
+ Minecraft --- Banii : 448200000.00 , Profitul : 447800000.00  , 4
+ DeadCells --- Banii : 1970361.50 , Profitul : 399461.50  , 5
+ NierAutomata --- Banii : 354000000.00 , Profitul : 342000000.00  , 2
+ DeadCells --- Banii : 1970361.50 , Profitul : 399461.50  , 3
+ NierAutomata --- Banii : 354000000.00 , Profitul : 342000000.00  , 2
+ DeadCells --- Banii : 1970361.50 , Profitul : 399461.50  , 3
+ NierAutomata --- Banii : 354000000.00 , Profitul : 342000000.00  , 2
+ DeadCells --- Banii : 1970361.50 , Profitul : 399461.50  , 3
+ wwwd --- Banii : 1970361.50 , Profitul : 399461.50  , 3
+ NierAutomata --- Banii : 354000000.00 , Profitul : 342000000.00  , 2
+ NierAutomata --- Banii : 354000000.00 , Profitul : 342000000.00  , 2
+ DeadCells --- Banii : 1970361.50 , Profitul : 399461.50  , 3
+ wwwd --- Banii : 1970361.50 , Profitul : 399461.50  , 3
+ NierAutomata --- Banii : 354000000.00 , Profitul : 342000000.00  , 2
+ DeadCells --- Banii : 1970361.50 , Profitul : 399461.50  , 3
+ wwwd --- Banii : 1970361.50 , Profitul : 399461.50  , 3
+ NierAutomata --- Banii : 354000000.00 , Profitul : 342000000.00  , 2
+ DeadCells --- Banii : 1970361.50 , Profitul : 399461.50  , 3
+ wwwd --- Banii : 1970361.50 , Profitul : 399461.50  , 3
+ NierAutomata --- Banii : 354000000.00 , Profitul : 342000000.00  , 2
+ DeadCells --- Banii : 1970361.50 , Profitul : 399461.50  , 3
+ wwwd --- Banii : 1970361.50 , Profitul : 399461.50  , 3
+ NierAutomata --- Banii : 354000000.00 , Profitul : 342000000.00  , 2
+ DeadCells --- Banii : 1970361.50 , Profitul : 399461.50  , 3
+ wwwd --- Banii : 1970361.50 , Profitul : 399461.50  , 3
+ NierAutomata --- Banii : 354000000.00 , Profitul : 342000000.00  , 2
+ DeadCells --- Banii : 1970361.50 , Profitul : 399461.50  , 3
+ wwwd --- Banii : 1970361.50 , Profitul : 399461.50  , 3
+ NierAutomata --- Banii: 354000000.00, Profitul: 342000000.00, 2
+ DeadCells --- Banii: 1970361.50, Profitul: 399461.50, 3
+ wwwd --- Banii: 1970361.50, Profitul: 399461.50, 3
+ NierAutomata --- Banii: 354000000.00, Profitul: 342000000.00, 2
+ DeadCells --- Banii: 1970361.50, Profitul: 399461.50, 3
+ wwwd --- Banii: 1970361.50, Profitul: 399461.50, 3
+ 
